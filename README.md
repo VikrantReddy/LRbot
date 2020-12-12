@@ -7,5 +7,5 @@ This bot is to support our discord server
 * Heroku
 
 ## Functionality
-[] CRUD operations on recommendation lists
-[] Daily dose of memes
+- [ ] CRUD operations on recommendation lists
+- [ ] Daily dose of memes
